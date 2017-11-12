@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+body,html {
+	background-color: #000;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+canvas {
+	background-color: #000;
+	margin: auto;
+	box-sizing: border-box;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
